@@ -99,6 +99,16 @@
         <module>springboot-config-refresh</module>
         <module>springboot-buffer-trigger</module>
         <module>springboot-jsonview</module>
+        <module>springboot-thirdparty-bean-replace</module>
+        <module>springboot-pipeline-valve</module>
+        <module>springboot-event-condition</module>
+        <module>springboot-el</module>
+        <module>springboot-json-render</module>
+        <module>springboot-kafka-forward</module>
+        <module>springboot-validate</module>
+        <module>springboot-fetch-version</module>
+        <module>springboot-db-readwrite-splitting</module>
+        <module>springboot-togglz</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
